@@ -1,0 +1,73 @@
+.section {
+	display: flex;
+}
+.half-width {
+	width: 50%;
+	margin: 70px;
+	padding: 50px;
+}
+img {
+	width: 100%;
+}
+span {
+	color: rgb(38, 119, 248);
+}
+a {
+	text-decoration: none;
+	padding: 10px 20px;
+	background-color: rgb(38, 119, 248);
+	color: white;
+	border-radius: 20px;
+}
+.secend {
+	background-image: url("image/Frame\ 57.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#recipies-tag {
+	text-align: center;
+	width: 420px;
+	margin: auto;
+}
+p,
+h1,
+h3 {
+	color: rgba(0, 0, 0, 0.529);
+}
+.comment {
+	text-align: center;
+	border-radius: 15px;
+	box-shadow: 2px 2px 11px 9px rgba(0, 0, 0, 0.089);
+}
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 40px;
+}
+h3 {
+	font-size: 30px;
+}
+h4 {
+	font-size: 20px;
+}
+.last {
+	width: 70%;
+	margin: auto;
+}
+.last-div {
+	padding: 20px;
+	margin: 5px;
+}
+footer {
+	text-align: center;
+	
+	background-repeat: no-repeat;
+	background-size: cover\;;
+}
+#fresh {
+	color: rgb(9, 247, 247);
+}
+small {
+	color: white;
+}
