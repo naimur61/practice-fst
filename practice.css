@@ -61,7 +61,7 @@ h4 {
 }
 footer {
 	text-align: center;
-	
+	background-image: url("image/pexels-pixabay-534285.jpg");
 	background-repeat: no-repeat;
 	background-size: cover\;;
 }
@@ -69,5 +69,5 @@ footer {
 	color: rgb(9, 247, 247);
 }
 small {
-	color: white;
+	color: rgb(255, 255, 255);
 }
